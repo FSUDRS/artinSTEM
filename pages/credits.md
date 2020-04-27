@@ -4,8 +4,30 @@ title: Credits
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+“Art in STEM” is organized and curated by the FSU Graduate Women in STEM student organization.
 
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
+Zeljka Popovic, president, Department of Chemistry and Biochemistry 
 
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+Cera Hsu, vice president, Department of Chemistry and Biochemistry 
+
+Fatemeh Abbasi Yeganeh, event coordinator, Department of Physics 
+	
+Kirsten Tucker, advertising coordinator, Department of Chemistry and Biochemistry
+
+Azza Akacha, media outreach officer, Department of Chemistry and Biochemistry
+
+Nadia Daneshparvar, department liaison, Department of Physics 
+	
+Sydney Niles, secretary, Department of Chemistry and Biochemistry 
+
+Tianhan Liu, treasurer, Department of Physics 
+	
+### Judges:
+
+Dr. Beth Stroupe, Department of Biological Science and GWIS adviser
+
+Dr. Francesca Bernardi, Department of Mathematics
+
+Dr. Lissa Anderson, National High Magnetic Field Laboratory
+
+Laura Koffinas, undergraduate, Department of Biological Science, Women in Math, Science and Engineering Program
