@@ -1,6 +1,6 @@
 ---
 pid: obj18
-label: A Sneak Peek of "Mars"
+label: A Sneak Peek of 'Mars'
 artist: Yan Zhou
 _date: '2019'
 object_type: DSLR
