@@ -20,7 +20,7 @@
 
 title:            'Art in STEM 2020'
 description:      'Exploring the beauty and artistry of science.'
-url:              'fsudrs.github.io'
+url:              'https://fsudrs.github.io'
 baseurl:          '/artinSTEM'
 copyright:        'Creative Commons, Attribution 2.0 Generic (CC BY 2.0) https://creativecommons.org/licenses/by/2.0/'
 logo:             '/assets/logo.png'
