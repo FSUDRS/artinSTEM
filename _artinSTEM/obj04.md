@@ -8,7 +8,7 @@ affiliation: Graduate Student
 department: Anthropology
 area_of_research_: Zooarchaeology, paleoethnobotany, environment and ecology, and
   households in archaeology
-Description: '### Bronfenbrenner’s ecological systems theory and symmetrical archaeology
+Description: 'Bronfenbrenner’s ecological systems theory and symmetrical archaeology
   are underlying principles and theoretical framework that looks at the arrangements
   of symmetrical relationships of human behaviors such as past and present, people
   and place, individuals and society, biology and culture in various systems. It is

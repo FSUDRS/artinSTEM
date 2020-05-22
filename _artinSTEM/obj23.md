@@ -1,12 +1,12 @@
 ---
 pid: obj23
-label: the power of the code
+label: The power of the code
 artist: Jason Lynn
 _date: '2019'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Biological Science
-area_of_research_: epigenetics and inheritance
+area_of_research_: Epigenetics and Inheritance
 Description: Tiny pieces of DNA code in specific locations can produce massive effects
   on an organism. We see in this photograph the power of that code - causing the intense
   production of a pigment protein which makes these maize kernels appear dark purple.

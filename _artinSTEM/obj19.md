@@ -1,12 +1,12 @@
 ---
 pid: obj19
-label: 'a panorama of rivers and mountains: emitters and matrix'
+label: 'A panorama of rivers and mountains: emitters and matrix'
 artist: Xiujun Lian
 _date: '2018'
 object_type: Other
 affiliation: Graduate Student
 department: Physics
-area_of_research_: Optoelectronics materials
+area_of_research_: Optoelectronics Materials
 Description: "This art piece originated from atomic force microscopy (AFM) showing
   the morphology of the composite optoelectronic materials, where the \"mountains\"
   correspond to the matrix material Cs4PbBr; while the \"rivers and hills\" represent

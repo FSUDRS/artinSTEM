@@ -5,7 +5,7 @@ artist: Tianhan Liu
 _date: '2019'
 object_type: Microscope
 affiliation: Graduate Student
-department: physics
+department: Physics
 area_of_research_: Condensed Matter Experiment
 Description: The bubbles form when aluminum was deposited on a thin flake of topological
   insulators (TI) BiSbTeSe by thermal evaporation. TI is a kind of material which
