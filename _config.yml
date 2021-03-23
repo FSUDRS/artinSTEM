@@ -120,7 +120,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Art in STEM 2020'
+      - label: 'Art in STEM 2021'
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
