@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Art in STEM 2020'
+title:            'Art in STEM'
 description:      'Exploring the beauty and artistry of science.'
 url:              'https://fsudrs.github.io'
 baseurl:          '/artinSTEM'
@@ -64,13 +64,20 @@ kramdown:
 collections:
   exhibits:
     output: true
-  artinSTEM: # name of collection
+  art2020: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
       source: 'artinSTEM2020.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/artinSTEM' # path to the directory of images within `_data`
+      source: 'raw_images/img2020' # path to the directory of images within `_data`
+  art2021: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'qatar_item' # the layout for the pages to use
+    metadata:
+      source: 'artinSTEM2021.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/img2021' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,7 +91,16 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      artinSTEM:
+      art2020:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - artist
+          - location
+          - label
+          - _date
+          - object_type
+          - current_location
+      art2021:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - artist
@@ -109,7 +125,11 @@ menu:
       - label: 'Credits'
         link: '/credits/'
   - label: 'Browse'
-    link: '/collection/'
+    sub:
+      - label: '2021 Exhibit'
+        link: '/collection/'
+      - label: '2020 Exhibit'
+        link: '/collection2020/'
   - label: 'Search'
     link: '/search/'
 

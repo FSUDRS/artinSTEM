@@ -5,13 +5,13 @@ layout: none
   {
     "pid": "obj10",
     "label": "Bottled Lightning",
-    "artist": "Nikolas Dos Santos",
+    "artist": "Angel Chu, co-artist Nikolas Dos Santos",
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj10",
+    "permalink": "/art2020/obj10",
     "lunr_id": 0
   },
   {
@@ -21,9 +21,9 @@ layout: none
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj24/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj24",
+    "permalink": "/art2020/obj24",
     "lunr_id": 1
   },
   {
@@ -33,9 +33,9 @@ layout: none
     "_date": "2018",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj04/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj04",
+    "permalink": "/art2020/obj04",
     "lunr_id": 2
   },
   {
@@ -45,9 +45,9 @@ layout: none
     "_date": "2020",
     "object_type": "Other",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj20/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj20",
+    "permalink": "/art2020/obj20",
     "lunr_id": 3
   },
   {
@@ -57,9 +57,9 @@ layout: none
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj14/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj14",
+    "permalink": "/art2020/obj14",
     "lunr_id": 4
   },
   {
@@ -69,9 +69,9 @@ layout: none
     "_date": "2019",
     "object_type": "Microscope",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj05/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj05",
+    "permalink": "/art2020/obj05",
     "lunr_id": 5
   },
   {
@@ -81,9 +81,9 @@ layout: none
     "_date": "2020",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj21/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj21",
+    "permalink": "/art2020/obj21",
     "lunr_id": 6
   },
   {
@@ -93,9 +93,9 @@ layout: none
     "_date": "2020",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj15/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj15",
+    "permalink": "/art2020/obj15",
     "lunr_id": 7
   },
   {
@@ -105,9 +105,9 @@ layout: none
     "_date": "2020",
     "object_type": "Simulation",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj01/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj01",
+    "permalink": "/art2020/obj01",
     "lunr_id": 8
   },
   {
@@ -117,9 +117,9 @@ layout: none
     "_date": "2019",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj11",
+    "permalink": "/art2020/obj11",
     "lunr_id": 9
   },
   {
@@ -129,9 +129,9 @@ layout: none
     "_date": "2018",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj25/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj25",
+    "permalink": "/art2020/obj25",
     "lunr_id": 10
   },
   {
@@ -141,21 +141,21 @@ layout: none
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj08/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj08",
+    "permalink": "/art2020/obj08",
     "lunr_id": 11
   },
   {
     "pid": "obj18",
-    "label": "A Sneak Peek of 'Mars'",
+    "label": "A Sneak Peek of \"Mars\"",
     "artist": "Yan Zhou",
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj18/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj18",
+    "permalink": "/art2020/obj18",
     "lunr_id": 12
   },
   {
@@ -165,21 +165,21 @@ layout: none
     "_date": "2019",
     "object_type": "Microscope",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj09/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj09",
+    "permalink": "/art2020/obj09",
     "lunr_id": 13
   },
   {
     "pid": "obj19",
-    "label": "a panorama of rivers and mountains: emitters and matrix",
+    "label": "A panorama of rivers and mountains: emitters and matrix",
     "artist": "Xiujun Lian",
     "_date": "2018",
     "object_type": "Other",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj19/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj19",
+    "permalink": "/art2020/obj19",
     "lunr_id": 14
   },
   {
@@ -189,9 +189,9 @@ layout: none
     "_date": "2020",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj06/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj06",
+    "permalink": "/art2020/obj06",
     "lunr_id": 15
   },
   {
@@ -201,9 +201,9 @@ layout: none
     "_date": "2016",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj22/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj22",
+    "permalink": "/art2020/obj22",
     "lunr_id": 16
   },
   {
@@ -213,9 +213,9 @@ layout: none
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj16/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj16",
+    "permalink": "/art2020/obj16",
     "lunr_id": 17
   },
   {
@@ -225,9 +225,9 @@ layout: none
     "_date": "2020",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj02/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj02",
+    "permalink": "/art2020/obj02",
     "lunr_id": 18
   },
   {
@@ -237,9 +237,9 @@ layout: none
     "_date": "2017",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj12",
+    "permalink": "/art2020/obj12",
     "lunr_id": 19
   },
   {
@@ -249,9 +249,9 @@ layout: none
     "_date": "2019",
     "object_type": "Microscope",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj26/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj26",
+    "permalink": "/art2020/obj26",
     "lunr_id": 20
   },
   {
@@ -261,9 +261,9 @@ layout: none
     "_date": "2019",
     "object_type": "DSLR",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj03/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj03",
+    "permalink": "/art2020/obj03",
     "lunr_id": 21
   },
   {
@@ -273,9 +273,9 @@ layout: none
     "_date": "2016",
     "object_type": "Microscope",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj13/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj13",
+    "permalink": "/art2020/obj13",
     "lunr_id": 22
   },
   {
@@ -285,21 +285,21 @@ layout: none
     "_date": "2019",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj07/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj07",
+    "permalink": "/art2020/obj07",
     "lunr_id": 23
   },
   {
     "pid": "obj23",
-    "label": "the power of the code",
+    "label": "The power of the code",
     "artist": "Jason Lynn",
     "_date": "2019",
     "object_type": "Cell Phone Camera",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj23/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj23",
+    "permalink": "/art2020/obj23",
     "lunr_id": 24
   },
   {
@@ -309,9 +309,285 @@ layout: none
     "_date": "2016",
     "object_type": "Microscope",
     "current_location": null,
-    "collection": "artinSTEM",
+    "collection": "art2020",
     "thumbnail": "/img/derivatives/iiif/images/obj17/full/250,/0/default.jpg",
-    "permalink": "/artinSTEM/obj17",
+    "permalink": "/art2020/obj17",
     "lunr_id": 25
+  },
+  {
+    "pid": "obj34",
+    "label": "Playing Lego on an Atomic Scale",
+    "artist": "Wenkai Zheng",
+    "_date": "2021",
+    "object_type": "Microscope",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj34/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj34",
+    "lunr_id": 26
+  },
+  {
+    "pid": "obj41",
+    "label": "Paleostorm History",
+    "artist": "Shakura Jahan",
+    "_date": "2021",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj41_recto/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj41",
+    "lunr_id": 27
+  },
+  {
+    "pid": "obj30",
+    "label": "Glowing Invaders",
+    "artist": "Jane Benoit",
+    "_date": "2021",
+    "object_type": "Microscope",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj30/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj30",
+    "lunr_id": 28
+  },
+  {
+    "pid": "obj45",
+    "label": "Ceci n'est pas une jellyfish",
+    "artist": "Erica Knorr",
+    "_date": "2020",
+    "object_type": "DSLR, image cropped and background changed in photo-editing software",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj45/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj45",
+    "lunr_id": 29
+  },
+  {
+    "pid": "obj31",
+    "label": "Snow Globe",
+    "artist": "Noelle Watson",
+    "_date": "2020",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj31/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj31",
+    "lunr_id": 30
+  },
+  {
+    "pid": "obj44",
+    "label": "Green Crystal",
+    "artist": "Jiaqi Chen",
+    "_date": "2020",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj44/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj44",
+    "lunr_id": 31
+  },
+  {
+    "pid": "obj35",
+    "label": "Crystal Flowers",
+    "artist": "Maya Chaaban",
+    "_date": "2020",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj35/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj35",
+    "lunr_id": 32
+  },
+  {
+    "pid": "obj40",
+    "label": "Diversity of Life on a Tree",
+    "artist": "Brendan Scherer",
+    "_date": "2017",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj40/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj40",
+    "lunr_id": 33
+  },
+  {
+    "pid": "obj38",
+    "label": "Filtered Fluorescence",
+    "artist": "Alex Robb",
+    "_date": "2020",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj38/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj38",
+    "lunr_id": 34
+  },
+  {
+    "pid": "obj28",
+    "label": "Brain Organoid in a Test Tube",
+    "artist": "Timothy Hua",
+    "_date": "2019",
+    "object_type": "Microscope",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj28/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj28",
+    "lunr_id": 35
+  },
+  {
+    "pid": "obj49",
+    "label": "Science - You Gotta Love It!",
+    "artist": "Judith Clark",
+    "_date": "2021",
+    "object_type": "Rigaku Synergy Single Crystal Diffractometer",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj49/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj49",
+    "lunr_id": 36
+  },
+  {
+    "pid": "obj48",
+    "label": "Motivated via Catalyst",
+    "artist": "Cera Hsu",
+    "_date": "2021",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj48/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj48",
+    "lunr_id": 37
+  },
+  {
+    "pid": "obj39",
+    "label": "An Enigmatic Anthracene Derivative",
+    "artist": "Jonathan Wheeler",
+    "_date": "2020",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj39/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj39",
+    "lunr_id": 38
+  },
+  {
+    "pid": "obj29",
+    "label": "The Many Faces of Zinc Oxide",
+    "artist": "Raul Ortega",
+    "_date": "2021",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj29/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj29",
+    "lunr_id": 39
+  },
+  {
+    "pid": "obj32",
+    "label": "Garnet and Gold",
+    "artist": "Zach VanOrman",
+    "_date": "2021",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj32/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj32",
+    "lunr_id": 40
+  },
+  {
+    "pid": "obj47",
+    "label": "Thinning Air and Ice",
+    "artist": "Amy Holt",
+    "_date": "2020",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj47/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj47",
+    "lunr_id": 41
+  },
+  {
+    "pid": "obj36",
+    "label": "The Creation of Color",
+    "artist": "Carl Conti",
+    "_date": "2021",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj36/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj36",
+    "lunr_id": 42
+  },
+  {
+    "pid": "obj43",
+    "label": "Saturn, is that you?",
+    "artist": "Grace McLeod",
+    "_date": "2021",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj43/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj43",
+    "lunr_id": 43
+  },
+  {
+    "pid": "obj37",
+    "label": "Third Islet From The Sun",
+    "artist": "Wesley Eaton",
+    "_date": "2019",
+    "object_type": "Confocal Microscopy",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj37/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj37",
+    "lunr_id": 44
+  },
+  {
+    "pid": "obj42",
+    "label": "Crystal-Rise",
+    "artist": "Drake Beery",
+    "_date": "2021",
+    "object_type": "DSLR",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj42/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj42",
+    "lunr_id": 45
+  },
+  {
+    "pid": "obj27",
+    "label": "The Ideal Sacoglossa Radula",
+    "artist": "Melanie Medina",
+    "_date": "2018",
+    "object_type": "Scanning Electron Microscope",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj27/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj27",
+    "lunr_id": 46
+  },
+  {
+    "pid": "obj33",
+    "label": "Through the Rainbow",
+    "artist": "Alexander Bieber",
+    "_date": "2021",
+    "object_type": "Cell Phone Camera",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj33",
+    "lunr_id": 47
+  },
+  {
+    "pid": "obj46",
+    "label": "Totally Tubular",
+    "artist": "Ashley Arcidiacono",
+    "_date": "2021",
+    "object_type": "DSLR, edits were made for the background",
+    "current_location": null,
+    "collection": "art2021",
+    "thumbnail": "/img/derivatives/iiif/images/obj46/full/250,/0/default.jpg",
+    "permalink": "/art2021/obj46",
+    "lunr_id": 48
   }
 ]

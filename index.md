@@ -2,8 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: artinSTEM
-  pid: obj10
+  collection: art2021
+  pid: obj28
   y: 25%
   height: '500px'
 ---
@@ -13,6 +13,6 @@ The annual “Art in STEM” exhibition aims to provide a creative outlet for th
 Art has proven to be an excellent medium for the expression of STEM research. For the last five years, “Art in STEM” has taken place in the Dirac Science Library and this year moves to a virtual exhibition to ensure the outstanding work of these scientist-artists may still be enjoyed by and inspire members of the FSU and global community during the pandemic. 
 
 
-### Browse the Collection
+### Art in STEM 2021
 
-{% include collection_gallery.html facet_by='object_type' collection='artinSTEM' %}
+{% include collection_gallery.html facet_by='object_type' collection='art2021' %}
