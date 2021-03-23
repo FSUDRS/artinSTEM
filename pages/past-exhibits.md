@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 2020 Collection
-permalink: /collection2020/
+title: Past Exhibits
+permalink: /past-exhibits/
 ---
+
+### 2020 Gallery 
 
 {% include collection_gallery.html collection='art2020' facet_by='object_type' %}

@@ -128,8 +128,8 @@ menu:
     sub:
       - label: '2021 Exhibit'
         link: '/collection/'
-      - label: '2020 Exhibit'
-        link: '/collection2020/'
+      - label: 'Past Exhibits'
+        link: '/past-exhibits/'
   - label: 'Search'
     link: '/search/'
 

@@ -16,3 +16,5 @@ Art has proven to be an excellent medium for the expression of STEM research. Fo
 ### Art in STEM 2021
 
 {% include collection_gallery.html facet_by='object_type' collection='art2021' %}
+
+[See the 2020 Gallery](/artinSTEM/past-exhibits/)
