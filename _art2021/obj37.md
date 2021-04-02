@@ -19,6 +19,6 @@ order: '10'
 layout: qatar_item
 collection: art2021
 thumbnail: "/img/derivatives/iiif/images/obj37/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj37/full/1140,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj37/full/full/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj37/manifest.json"
 ---
