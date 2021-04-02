@@ -9,7 +9,7 @@ department: Chemistry and Biochemistry
 area_of_research: Inorganic chemistry
 description: This is a single crystal of Na2Mn2Se3 compound that is synthesized at
   high temperatures in a carbon crucible. All preparations must be done in an inert
-  atmosphere. This Image was captured by the Rigaku Synergy Single Crystal Diffractometer.
+  atmosphere. This image was captured by the Rigaku Synergy Single Crystal Diffractometer.
   This research is important to understanding broken magnetic frustration ocurring
   in the comparison of single crystal and powdered samples.
 current_location: 

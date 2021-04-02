@@ -8,7 +8,7 @@ affiliation: Graduate Student
 department: Chemistry and Biochemistry
 area_of_research: Materials chemistry
 description: This image is a top-down look into one of my microwave reactor cells
-  that contains a Chromium doped silica catalyst. Currently this catalyst is being
+  that contains a chromium doped silica catalyst. Currently this catalyst is being
   utilized in microwave heating heterogeneous reactions for thermodynamic studies
   of the reaction mechanisms.
 current_location: 
