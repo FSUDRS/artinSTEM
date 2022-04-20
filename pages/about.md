@@ -4,8 +4,8 @@ title: Art in STEM
 permalink: /about/
 ---
 
-The annual “Art in STEM” exhibition aims to provide a creative outlet for the Florida State community to explore the beauty and artistry of science. This exhibition helps bridge the gap between scientific discovery and popular interest by making sophisticated science accessible to a wider audience. 
+The annual “Art in STEM” exhibition provides a creative outlet for the Florida State community to explore the beauty and artistry of science. This exhibition helps bridge the gap between scientific discovery and popular interest by making sophisticated science accessible to a wider audience.
 
-Art has proven to be an excellent medium for the expression of STEM research. Until 2020, “Art in STEM” took place exclusively as an installation in FSU’s Dirac Science Library. Due to the COVID-19 pandemic, the exhibition moved online in 2020 and this year remains in a virtual format so members of the FSU and global community can enjoy and be inspired by the outstanding work of these scientist-artists. 
+Art has proven to be an excellent medium for the expression of STEM research. Pieces in this year’s collection were created and captured using various scientific and photographic techniques and span disciplines including chemistry and biochemistry, physics, biological science, mathematics, biomedical sciences, and scientific computing.
 
-Members of the FSU community and the public are invited to vote for their favorite artwork to win the [People’s Choice Award](https://pollunit.com/polls/ufwkh364a-u7sn_pzyvrpq). The winning artist will receive a prize basket courtesy of exhibition sponsors. Voting closes April 15.
+“Art in STEM” is a collaboration among the FSU Graduate Women in STEM, the FSU Office of Digital Research and Scholarship, and the FSU College of Arts and Sciences.
