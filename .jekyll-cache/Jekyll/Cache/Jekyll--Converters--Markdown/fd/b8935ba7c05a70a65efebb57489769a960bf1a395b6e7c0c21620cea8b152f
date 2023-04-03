@@ -1,0 +1,69 @@
+I",<p>Art has proven to be an excellent medium for the expression of STEM research, and the annual “Art in STEM” exhibition aims to provide a creative outlet for the Florida State community to explore the beauty and artistry of science.</p>
+
+<p>This exhibition helps bridge the gap between scientific discovery and popular interest by making sophisticated science accessible to a wider audience. Explore the digital exhibition here and be sure to visit the physical installation inside FSU’s Dirac Science Library.</p>
+
+<h3 id="art-in-stem-2023">Art in STEM 2023</h3>
+
+<div id="wax-gallery-art2023-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="art2023-facet-buttons" class="facet-buttons"></div>
+    <div id="wax-gallery-art2023" class="wax-gallery"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+    var container = $('#wax-gallery-art2023-container');
+    var gallery = $('#wax-gallery-art2023');
+    var buttonDiv = $('#art2023-facet-buttons');
+
+    
+      gallery.append("<div class='gallery-item camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj69/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj69/full/250,/0/default.jpg' alt='Precipitation in (Quasi)2D'/><div class='overlay'><p class='info'>Precipitation in (Quasi)2D</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj70/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj70/full/250,/0/default.jpg' alt='X-ray of a Protein!'/><div class='overlay'><p class='info'>X-ray of a Protein!</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj71/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj71/full/250,/0/default.jpg' alt='The Edge'/><div class='overlay'><p class='info'>The Edge</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj72/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj72/full/250,/0/default.jpg' alt='Unraveling the Mechanisms of HIV-1 Nuclear Import'/><div class='overlay'><p class='info'>Unraveling the Mechanisms of HIV-1 Nuclear Import</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj73/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj73/full/250,/0/default.jpg' alt='Laurel Precedence'/><div class='overlay'><p class='info'>Laurel Precedence</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj74/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj74/full/250,/0/default.jpg' alt='A Captivating Display of Protein Crystals'/><div class='overlay'><p class='info'>A Captivating Display of Protein Crystals</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj75/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj75/full/250,/0/default.jpg' alt='Mighty War  Against the Pandemic of Plastic Consumption'/><div class='overlay'><p class='info'>Mighty War  Against the Pandemic of Plastic Consumption</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj76/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj76/full/250,/0/default.jpg' alt='Isolated Cardiomyocyte'/><div class='overlay'><p class='info'>Isolated Cardiomyocyte</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj77/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj77/full/250,/0/default.jpg' alt='Mouse Heart'/><div class='overlay'><p class='info'>Mouse Heart</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item electron-microscope-and-simulation all'><a href='http://localhost:4000/artinSTEM/art2023/obj78/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj78/full/250,/0/default.jpg' alt='Protein Decoration on Lipid Tubes'/><div class='overlay'><p class='info'>Protein Decoration on Lipid Tubes</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj79/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj79/full/250,/0/default.jpg' alt='Monument to Failure: AKA Starting Over'/><div class='overlay'><p class='info'>Monument to Failure: AKA Starting Over</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj80/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj80/full/250,/0/default.jpg' alt='Electron Heart: An Intricate World Unveiled'/><div class='overlay'><p class='info'>Electron Heart: An Intricate World Unveiled</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj81/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj81/full/250,/0/default.jpg' alt='Grown ‘Butterflies’ on a ‘Gold Mine.’'/><div class='overlay'><p class='info'>Grown ‘Butterflies’ on a ‘Gold Mine.’</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj82/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj82/full/250,/0/default.jpg' alt='Colorful Kernals'/><div class='overlay'><p class='info'>Colorful Kernals</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item high-speed-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj83/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj83/full/250,/0/default.jpg' alt='Ice Particles in the Superfluid Flow'/><div class='overlay'><p class='info'>Ice Particles in the Superfluid Flow</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item denss-software-using-scattering-data-alphafold-pdb-chimerax all'><a href='http://localhost:4000/artinSTEM/art2023/obj84/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj84/full/250,/0/default.jpg' alt='Meet Flexible Octopus-Sulfite Reductase'/><div class='overlay'><p class='info'>Meet Flexible Octopus-Sulfite Reductase</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item phonto-app-for-ipad-ios all'><a href='http://localhost:4000/artinSTEM/art2023/obj85/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj85/full/250,/0/default.jpg' alt='Bioinformatics'/><div class='overlay'><p class='info'>Bioinformatics</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj86/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj86/full/250,/0/default.jpg' alt='Complex Interaction of Colorectal Cancer Cells Signaling Immune Cells Towards the Malignant Tumor'/><div class='overlay'><p class='info'>Complex Interaction of Colorectal Cancer Cells Signaling Immune Cells Towards the Malignant Tumor</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2023/obj87/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj87/full/250,/0/default.jpg' alt='Quantum Christmas Lights'/><div class='overlay'><p class='info'>Quantum Christmas Lights</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2023/obj88/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj88/full/250,/0/default.jpg' alt='The Album in the Nano World'/><div class='overlay'><p class='info'>The Album in the Nano World</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2023/obj89/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj89/full/250,/0/default.jpg' alt='Weaving'/><div class='overlay'><p class='info'>Weaving</p></div></div></a></div>");
+      
+    
+
+    
+      
+        var facets = Array.from(new Set(['camera', 'microscope', 'microscope', 'microscope', 'cell-phone-camera', 'microscope', 'microscope', 'microscope', 'cell-phone-camera', 'electron-microscope-and-simulation', 'cell-phone-camera', 'microscope', 'cell-phone-camera', 'cell-phone-camera', 'high-speed-camera', 'denss-software-using-scattering-data-alphafold-pdb-chimerax', 'phonto-app-for-ipad-ios', 'microscope', 'dslr', 'microscope', 'cell-phone-camera']));
+        buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
+
+        for (i in facets) {
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+        }
+
+        $(document).ready(function(){
+          $(".facet").click(function(){
+            var filterValue = $(this).attr('data-filter');
+            $('.facet').removeClass('active');
+            $(this).addClass('active');
+            if(filterValue == 'all') { $('.all').show('slow'); }
+            else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+          });
+        });
+      
+    
+  });
+</script>
+
+<p><a href="/artinSTEM/past-exhibits/">See the galleries from previous years</a></p>
+:ET

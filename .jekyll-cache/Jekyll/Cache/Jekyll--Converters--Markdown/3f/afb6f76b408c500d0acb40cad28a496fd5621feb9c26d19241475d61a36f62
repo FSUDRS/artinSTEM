@@ -1,0 +1,195 @@
+I"�~<h3 id="2022-gallery">2022 Gallery</h3>
+
+<div id="wax-gallery-art2022-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="art2022-facet-buttons" class="facet-buttons"></div>
+    <div id="wax-gallery-art2022" class="wax-gallery"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+    var container = $('#wax-gallery-art2022-container');
+    var gallery = $('#wax-gallery-art2022');
+    var buttonDiv = $('#art2022-facet-buttons');
+
+    
+      gallery.append("<div class='gallery-item simulation all'><a href='http://localhost:4000/artinSTEM/art2022/obj50/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj50/full/250,/0/default.jpg' alt='Sea Urchin'/><div class='overlay'><p class='info'>Sea Urchin</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj51/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj51/full/250,/0/default.jpg' alt='Flight Data Visualization of COPA Airlines'/><div class='overlay'><p class='info'>Flight Data Visualization of COPA Airlines</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2022/obj52/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj52/full/250,/0/default.jpg' alt='Colored Bodies'/><div class='overlay'><p class='info'>Colored Bodies</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj53/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj53/full/250,/0/default.jpg' alt='Desert Nights'/><div class='overlay'><p class='info'>Desert Nights</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2022/obj54/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj54/full/250,/0/default.jpg' alt='Structure and Function are in the Eyes of the Beholder'/><div class='overlay'><p class='info'>Structure and Function are in the Eyes of the Beholder</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj55/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj55/full/250,/0/default.jpg' alt='All Paths Lead to the Best Tree'/><div class='overlay'><p class='info'>All Paths Lead to the Best Tree</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2022/obj56/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj56/full/250,/0/default.jpg' alt='Galaxy in a Round Bottom'/><div class='overlay'><p class='info'>Galaxy in a Round Bottom</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj57/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj57/full/250,/0/default.jpg' alt='Gas Bubbling for Oxygen Evolution Reaction'/><div class='overlay'><p class='info'>Gas Bubbling for Oxygen Evolution Reaction</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2022/obj58/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj58/full/250,/0/default.jpg' alt='Smoke and Mirrors'/><div class='overlay'><p class='info'>Smoke and Mirrors</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj59/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj59/full/250,/0/default.jpg' alt='Crystals'/><div class='overlay'><p class='info'>Crystals</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item other all'><a href='http://localhost:4000/artinSTEM/art2022/obj60/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj60/full/250,/0/default.jpg' alt='The Colors of Chemistry'/><div class='overlay'><p class='info'>The Colors of Chemistry</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item other all'><a href='http://localhost:4000/artinSTEM/art2022/obj61/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj61/full/250,/0/default.jpg' alt='Lights On'/><div class='overlay'><p class='info'>Lights On</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj62/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj62/full/250,/0/default.jpg' alt='Dragonball Polymer'/><div class='overlay'><p class='info'>Dragonball Polymer</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj63/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj63/full/250,/0/default.jpg' alt='1,4,5-Tryaryl Triazole'/><div class='overlay'><p class='info'>1,4,5-Tryaryl Triazole</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2022/obj64/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj64/full/250,/0/default.jpg' alt='‘Three-eyed’ Pancreatic Cancer Organoid'/><div class='overlay'><p class='info'>‘Three-eyed’ Pancreatic Cancer Organoid</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2022/obj65/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj65/full/250,/0/default.jpg' alt='Orbital Visualization of Thorium Complex'/><div class='overlay'><p class='info'>Orbital Visualization of Thorium Complex</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2022/obj66/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj66/full/250,/0/default.jpg' alt='Bacterial Winter '/><div class='overlay'><p class='info'>Bacterial Winter </p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2022/obj67/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj67/full/250,/0/default.jpg' alt='Human Cardiomyocytes'/><div class='overlay'><p class='info'>Human Cardiomyocytes</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2022/obj68/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj68/full/250,/0/default.jpg' alt='Protein Pretzels'/><div class='overlay'><p class='info'>Protein Pretzels</p></div></div></a></div>");
+      
+    
+
+    
+      
+        var facets = Array.from(new Set(['simulation', 'dslr', 'cell-phone-camera', 'dslr', 'microscope', 'dslr', 'cell-phone-camera', 'dslr', 'microscope', 'dslr', 'other', 'other', 'dslr', 'dslr', 'cell-phone-camera', 'cell-phone-camera', 'dslr', 'cell-phone-camera', 'microscope']));
+        buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
+
+        for (i in facets) {
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+        }
+
+        $(document).ready(function(){
+          $(".facet").click(function(){
+            var filterValue = $(this).attr('data-filter');
+            $('.facet').removeClass('active');
+            $(this).addClass('active');
+            if(filterValue == 'all') { $('.all').show('slow'); }
+            else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+          });
+        });
+      
+    
+  });
+</script>
+
+<h3 id="2021-gallery">2021 Gallery</h3>
+
+<div id="wax-gallery-art2021-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="art2021-facet-buttons" class="facet-buttons"></div>
+    <div id="wax-gallery-art2021" class="wax-gallery"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+    var container = $('#wax-gallery-art2021-container');
+    var gallery = $('#wax-gallery-art2021');
+    var buttonDiv = $('#art2021-facet-buttons');
+
+    
+      gallery.append("<div class='gallery-item scanning-electron-microscope all'><a href='http://localhost:4000/artinSTEM/art2021/obj27/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj27/full/250,/0/default.jpg' alt='The Ideal Sacoglossa Radula'/><div class='overlay'><p class='info'>The Ideal Sacoglossa Radula</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2021/obj28/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj28/full/250,/0/default.jpg' alt='Brain Organoid in a Test Tube'/><div class='overlay'><p class='info'>Brain Organoid in a Test Tube</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj29/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj29/full/250,/0/default.jpg' alt='The Many Faces of Zinc Oxide'/><div class='overlay'><p class='info'>The Many Faces of Zinc Oxide</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2021/obj30/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj30/full/250,/0/default.jpg' alt='Glowing Invaders'/><div class='overlay'><p class='info'>Glowing Invaders</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj31/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj31/full/250,/0/default.jpg' alt='Snow Globe'/><div class='overlay'><p class='info'>Snow Globe</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj32/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj32/full/250,/0/default.jpg' alt='Garnet and Gold'/><div class='overlay'><p class='info'>Garnet and Gold</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj33/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg' alt='Through the Rainbow'/><div class='overlay'><p class='info'>Through the Rainbow</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2021/obj34/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj34/full/250,/0/default.jpg' alt='Playing Lego on an Atomic Scale'/><div class='overlay'><p class='info'>Playing Lego on an Atomic Scale</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj35/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj35/full/250,/0/default.jpg' alt='Crystal Flowers'/><div class='overlay'><p class='info'>Crystal Flowers</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj36/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj36/full/250,/0/default.jpg' alt='The Creation of Color'/><div class='overlay'><p class='info'>The Creation of Color</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item confocal-microscopy all'><a href='http://localhost:4000/artinSTEM/art2021/obj37/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj37/full/250,/0/default.jpg' alt='Third Islet From The Sun'/><div class='overlay'><p class='info'>Third Islet From The Sun</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj38/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj38/full/250,/0/default.jpg' alt='Filtered Fluorescence'/><div class='overlay'><p class='info'>Filtered Fluorescence</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj39/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj39/full/250,/0/default.jpg' alt='An Enigmatic Anthracene Derivative'/><div class='overlay'><p class='info'>An Enigmatic Anthracene Derivative</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj40/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj40/full/250,/0/default.jpg' alt='Diversity of Life on a Tree'/><div class='overlay'><p class='info'>Diversity of Life on a Tree</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj41/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj41_recto/full/250,/0/default.jpg' alt='Paleostorm History'/><div class='overlay'><p class='info'>Paleostorm History</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj42/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj42/full/250,/0/default.jpg' alt='Crystal-Rise'/><div class='overlay'><p class='info'>Crystal-Rise</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj43/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj43/full/250,/0/default.jpg' alt='Saturn, is that you?'/><div class='overlay'><p class='info'>Saturn, is that you?</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2021/obj44/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj44/full/250,/0/default.jpg' alt='Green Crystal'/><div class='overlay'><p class='info'>Green Crystal</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr-image-cropped-and-background-changed-in-photo-editing-software all'><a href='http://localhost:4000/artinSTEM/art2021/obj45/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj45/full/250,/0/default.jpg' alt='Ceci n'est pas une jellyfish'/><div class='overlay'><p class='info'>Ceci n'est pas une jellyfish</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr-edits-were-made-for-the-background all'><a href='http://localhost:4000/artinSTEM/art2021/obj46/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj46/full/250,/0/default.jpg' alt='Totally Tubular'/><div class='overlay'><p class='info'>Totally Tubular</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj47/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj47/full/250,/0/default.jpg' alt='Thinning Air and Ice'/><div class='overlay'><p class='info'>Thinning Air and Ice</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2021/obj48/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj48/full/250,/0/default.jpg' alt='Motivated via Catalyst'/><div class='overlay'><p class='info'>Motivated via Catalyst</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item rigaku-synergy-single-crystal-diffractometer all'><a href='http://localhost:4000/artinSTEM/art2021/obj49/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj49/full/250,/0/default.jpg' alt='Science - You Gotta Love It!'/><div class='overlay'><p class='info'>Science - You Gotta Love It!</p></div></div></a></div>");
+      
+    
+
+    
+      
+        var facets = Array.from(new Set(['scanning-electron-microscope', 'microscope', 'cell-phone-camera', 'microscope', 'cell-phone-camera', 'cell-phone-camera', 'cell-phone-camera', 'microscope', 'cell-phone-camera', 'dslr', 'confocal-microscopy', 'dslr', 'dslr', 'dslr', 'cell-phone-camera', 'dslr', 'dslr', 'dslr', 'dslr-image-cropped-and-background-changed-in-photo-editing-software', 'dslr-edits-were-made-for-the-background', 'cell-phone-camera', 'cell-phone-camera', 'rigaku-synergy-single-crystal-diffractometer']));
+        buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
+
+        for (i in facets) {
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+        }
+
+        $(document).ready(function(){
+          $(".facet").click(function(){
+            var filterValue = $(this).attr('data-filter');
+            $('.facet').removeClass('active');
+            $(this).addClass('active');
+            if(filterValue == 'all') { $('.all').show('slow'); }
+            else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+          });
+        });
+      
+    
+  });
+</script>
+
+<h3 id="2020-gallery">2020 Gallery</h3>
+
+<div id="wax-gallery-art2020-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="art2020-facet-buttons" class="facet-buttons"></div>
+    <div id="wax-gallery-art2020" class="wax-gallery"></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $( document ).ready(function() {
+    var container = $('#wax-gallery-art2020-container');
+    var gallery = $('#wax-gallery-art2020');
+    var buttonDiv = $('#art2020-facet-buttons');
+
+    
+      gallery.append("<div class='gallery-item simulation all'><a href='http://localhost:4000/artinSTEM/art2020/obj01/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj01/full/250,/0/default.jpg' alt='Stellar Swirls'/><div class='overlay'><p class='info'>Stellar Swirls</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj02/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj02/full/250,/0/default.jpg' alt='Seeing Red'/><div class='overlay'><p class='info'>Seeing Red</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj03/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj03/full/250,/0/default.jpg' alt='Watched Over By Angels'/><div class='overlay'><p class='info'>Watched Over By Angels</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj04/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj04/full/250,/0/default.jpg' alt='Bio-cultural Symmetry'/><div class='overlay'><p class='info'>Bio-cultural Symmetry</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2020/obj05/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj05/full/250,/0/default.jpg' alt='The Structural Network'/><div class='overlay'><p class='info'>The Structural Network</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj06/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj06/full/250,/0/default.jpg' alt='Perylene Planet'/><div class='overlay'><p class='info'>Perylene Planet</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj07/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj07/full/250,/0/default.jpg' alt='Photoswitch'/><div class='overlay'><p class='info'>Photoswitch</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj08/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj08/full/250,/0/default.jpg' alt='Chemistry is ~cool~'/><div class='overlay'><p class='info'>Chemistry is ~cool~</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2020/obj09/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj09/full/250,/0/default.jpg' alt='Neuronal Signaling of the Cerebellar-like Organoid Cells'/><div class='overlay'><p class='info'>Neuronal Signaling of the Cerebellar-like Organoid Cells</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj10/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg' alt='Bottled Lightning'/><div class='overlay'><p class='info'>Bottled Lightning</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj11/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg' alt='Metamorphosis'/><div class='overlay'><p class='info'>Metamorphosis</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj12/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg' alt='The Swope Telescope and Earth's Shadow'/><div class='overlay'><p class='info'>The Swope Telescope and Earth's Shadow</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2020/obj13/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj13/full/250,/0/default.jpg' alt='The beauty of microscale structures for halide perovskites'/><div class='overlay'><p class='info'>The beauty of microscale structures for halide perovskites</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj14/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj14/full/250,/0/default.jpg' alt='Eyeball'/><div class='overlay'><p class='info'>Eyeball</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj15/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj15/full/250,/0/default.jpg' alt='Mistakes Were Made'/><div class='overlay'><p class='info'>Mistakes Were Made</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj16/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj16/full/250,/0/default.jpg' alt='Chemistry is Fire'/><div class='overlay'><p class='info'>Chemistry is Fire</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2020/obj17/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj17/full/250,/0/default.jpg' alt='Viewing Cancer Through a Mathematical Lens'/><div class='overlay'><p class='info'>Viewing Cancer Through a Mathematical Lens</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj18/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj18/full/250,/0/default.jpg' alt='A Sneak Peek of “Mars”'/><div class='overlay'><p class='info'>A Sneak Peek of “Mars”</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item other all'><a href='http://localhost:4000/artinSTEM/art2020/obj19/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj19/full/250,/0/default.jpg' alt='A panorama of rivers and mountains: emitters and matrix'/><div class='overlay'><p class='info'>A panorama of rivers and mountains: emitters and matrix</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item other all'><a href='http://localhost:4000/artinSTEM/art2020/obj20/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj20/full/250,/0/default.jpg' alt='24'/><div class='overlay'><p class='info'>24</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj21/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj21/full/250,/0/default.jpg' alt='Polyelectrolyte Spider Web'/><div class='overlay'><p class='info'>Polyelectrolyte Spider Web</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj22/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj22/full/250,/0/default.jpg' alt='Continue to Grow'/><div class='overlay'><p class='info'>Continue to Grow</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj23/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj23/full/250,/0/default.jpg' alt='The power of the code'/><div class='overlay'><p class='info'>The power of the code</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item dslr all'><a href='http://localhost:4000/artinSTEM/art2020/obj24/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj24/full/250,/0/default.jpg' alt='Velcro Teeth'/><div class='overlay'><p class='info'>Velcro Teeth</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item cell-phone-camera all'><a href='http://localhost:4000/artinSTEM/art2020/obj25/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj25/full/250,/0/default.jpg' alt='Reflections of a Sabellid'/><div class='overlay'><p class='info'>Reflections of a Sabellid</p></div></div></a></div>");
+      gallery.append("<div class='gallery-item microscope all'><a href='http://localhost:4000/artinSTEM/art2020/obj26/'><div class='hovereffect'><img class='img-responsive gallery-thumb' src='http://localhost:4000/artinSTEM/img/derivatives/iiif/images/obj26/full/250,/0/default.jpg' alt='Bubbles'/><div class='overlay'><p class='info'>Bubbles</p></div></div></a></div>");
+      
+    
+
+    
+      
+        var facets = Array.from(new Set(['simulation', 'dslr', 'dslr', 'dslr', 'microscope', 'cell-phone-camera', 'cell-phone-camera', 'dslr', 'microscope', 'dslr', 'cell-phone-camera', 'dslr', 'microscope', 'dslr', 'cell-phone-camera', 'dslr', 'microscope', 'dslr', 'other', 'other', 'dslr', 'cell-phone-camera', 'cell-phone-camera', 'dslr', 'cell-phone-camera', 'microscope']));
+        buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
+
+        for (i in facets) {
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+        }
+
+        $(document).ready(function(){
+          $(".facet").click(function(){
+            var filterValue = $(this).attr('data-filter');
+            $('.facet').removeClass('active');
+            $(this).addClass('active');
+            if(filterValue == 'all') { $('.all').show('slow'); }
+            else { $('.all').hide('slow'); $(`.${filterValue}`).show('slow'); }
+          });
+        });
+      
+    
+  });
+</script>
+
+:ET
