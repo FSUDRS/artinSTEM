@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Chemistry, Electrochemistry
+area_of_research: Chemistry, Electrochemistry
 description: OER electrocatalyst (cobalt nanocarbide) producing oxygen bubbles on
   the nanomaterial modified glassy carbon electrode surface.
 current_location: 

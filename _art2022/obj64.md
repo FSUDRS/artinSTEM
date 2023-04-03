@@ -6,7 +6,7 @@ _date: '2016'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Biomedical Sciences
-area_of_research_: Cancer Biology
+area_of_research: Cancer Biology
 description: This patient-derived organoid image was taken on a Zeiss Laser Scanning
   Confocal Microsocpe while investigating the role of mechanical cues on cell-cell
   junction proteins.

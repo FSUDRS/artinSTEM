@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: EOAS
-area_of_research_: Biological Oceanography
+area_of_research: Biological Oceanography
 description: This macro shot of the mouth of a pencil urchin Sterocidaris nascaensis
   that was collected from 300 meters deep as part of an ecological survey in the South
   Pacific Ocean on the Salas y Gomez Ridge. Urchins eat algae and bacterial mats by

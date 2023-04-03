@@ -6,7 +6,7 @@ _date: '2018'
 object_type: Other
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Molecular Photophysics
+area_of_research: Molecular Photophysics
 description: 'In the Hanson Group, we rely on dyes that absorb many colors of light.
   Here, you see a column (a separation technique that leverages polarity to separate
   side products in organic reactions) for a target BODIPY dye. BODIPY dyes are extremely

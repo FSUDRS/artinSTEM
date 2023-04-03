@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Quantum Chemistry
+area_of_research: Quantum Chemistry
 description: This work demonstrates a way of treating nuclear waste used in power
   plants and factories is to bind chemicals to radioactive elements, making them easier
   to remove from toxic solutions. Shown here is a simulation of such a reaction, where

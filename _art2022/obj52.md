@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Biological Science
-area_of_research_: Epigenetics
+area_of_research: Epigenetics
 description: "Our lab mainly focuses on the organization and maintenance of chromatin
   on the inactive X chromosome (Xi). We use gRNA mediated gene deletion, exploiting
   CRISPR/Cas9 system to delete specific gene of interest from primary cell line. In

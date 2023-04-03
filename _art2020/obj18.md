@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry
-area_of_research_: Materials Chemistry
+area_of_research: Materials Chemistry
 description: Solar energy harvesting has evolved into a premier technology for realizing
   a sustainable energy future. Work in our research lab focuses on studying solar
   cells sensitized by dyes that absorb light and convert it into electricity on a

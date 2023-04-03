@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Other
 affiliation: Graduate Student
 department: Computer Science
-area_of_research_: Artificial Intelligence
+area_of_research: Artificial Intelligence
 description: "The image &#x0027;24&#x0027; was inspired by the death of a Star - Kobe
   Bryant. It was done to remind us to live because life is a sequence of 0s and 1s;
   it can be at &#x0027;1&#x0027; today and &#x0027;0&#x0027; tomorrow. I created this

@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Microscope
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Organoid differentiation and brain cancer research
+area_of_research: Organoid differentiation and brain cancer research
 description: Human-induced pluripotent stem cells (HiPSCs) can differentiate into
   any cell types within the human body. They have been used to generate various organoid
   models that mimic the organs of interest such as the brain for development studying

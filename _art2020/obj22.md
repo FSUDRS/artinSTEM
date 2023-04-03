@@ -6,7 +6,7 @@ _date: '2016'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Biological Science
-area_of_research_: Maize Epigenetics
+area_of_research: Maize Epigenetics
 description: We grow maize plants in a variety of genetic backgrounds in order to
   study gene regulatory mechanisms. Here we see brace roots aiding in the plant&#x0027;s
   stability as it grows. By studying how maize genes are regulated we can further

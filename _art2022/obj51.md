@@ -6,7 +6,7 @@ _date: '2020'
 object_type: DSLR
 affiliation: Graduate Student
 department: Scientific Computing
-area_of_research_: Data Science / Machine Learning / Artificial Intelligence
+area_of_research: Data Science / Machine Learning / Artificial Intelligence
 description: "This is an exercise in data visualization. It is important to be able
   to visualize data, to get important insights that may not be apparent when we look
   at just numbers. \n \nThis visualization uses Machine Learning to predict flight

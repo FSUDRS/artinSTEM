@@ -6,7 +6,7 @@ _date: '2017'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Nonlinear Dynamics, Physical Chemistry
+area_of_research: Nonlinear Dynamics, Physical Chemistry
 description: This microscope image shows the growth of a nickel and magnesium hydroxide
   precipitate membrane within a microfluidic channel. These wholly inorganic, self-assembled
   structures have been studied since the days of the alchemists and are utilized now

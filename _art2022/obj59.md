@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Photochemistry
+area_of_research: Photochemistry
 description: Crystals left behind when you wait to clean the glassware.
 current_location: 
 source: 

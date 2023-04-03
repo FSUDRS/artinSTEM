@@ -6,7 +6,7 @@ _date: '2016'
 object_type: Microscope
 affiliation: Postdoctoral Researcher
 department: Physics
-area_of_research_: Material Physics
+area_of_research: Material Physics
 description: 'Solution-synthesized perovskite CH3NH3PbBr3 display high-crystallinity
   versatile structures at micrometer scale -- wires, cubes and plates, which enable
   well-defined research of this material on the settings of optics, electronics, optoelectronics,

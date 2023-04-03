@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Biological Science
-area_of_research_: Epigenetics and Inheritance
+area_of_research: Epigenetics and Inheritance
 description: Tiny pieces of DNA code in specific locations can produce massive effects
   on an organism. We see in this photograph the power of that code - causing the intense
   production of a pigment protein which makes these maize kernels appear dark purple.

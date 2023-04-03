@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Department of Chemistry & Biochemistry
-area_of_research_: Photoinduced Molecular Transformations
+area_of_research: Photoinduced Molecular Transformations
 description: What is in the photo? A red eyeball! It is actually a by-product after
   a column. Save "useless" product sometimes. Maybe it will be a miracle in the future,
   like becoming an eyeball! In Hanson research group, we will design and synthesis

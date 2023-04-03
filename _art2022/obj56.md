@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: 'Materials Chemistry '
+area_of_research: 'Materials Chemistry '
 description: The round bottom pictured here contains a molecular switch (dithienylethene).
   Light can be used to switch this molecule between two different forms which have
   very different properties.

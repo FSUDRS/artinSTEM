@@ -6,7 +6,7 @@ _date: '2018'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Biomedical Sciences
-area_of_research_: Cardiac Muscle
+area_of_research: Cardiac Muscle
 description: 'Human induced pluripotent stem cells (hiPSC) are differentiated into
   cardiomyocytes and cultured in our lab to study diseases of the heart muscle. Our
   study aims to aid discovery of new and better therapeutic treatments for patients

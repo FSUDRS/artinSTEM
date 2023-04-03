@@ -6,7 +6,7 @@ _date: '2020'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry
-area_of_research_: Organic / Physical Chemistry
+area_of_research: Organic / Physical Chemistry
 description: This is a 1,4,5-tryaryl triazole which is rotated to show that the aryl
   groups are twisted. This molecule can have two different hydrogen bonding conformations.
   The conformers fluoresce at different wavelengths and therefore have excitation

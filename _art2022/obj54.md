@@ -6,7 +6,7 @@ _date: '2016'
 object_type: Microscope
 affiliation: Graduate Student
 department: Mathematics
-area_of_research_: Biomathematics, Dynamical Systems and Networks
+area_of_research: Biomathematics, Dynamical Systems and Networks
 description: Hormone releasing cells form structural networks, illustrated by edges
   in the graph. The cells produce electrical oscillations, and nodes of the same color
   are synchronized with one another but not with nodes of different colors. This is

@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Photochemistry
+area_of_research: Photochemistry
 description: Pictured is a reversible stimuli-responsive molecular switch. Application
   of an external stimuli (UV/visible light or an applied potential) can be used to
   switch between two different, thermodynamically stable forms. Molecular switches

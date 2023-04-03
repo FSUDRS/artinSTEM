@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Other
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Materials Chemistry
+area_of_research: Materials Chemistry
 description: 'A photolysis reaction in progress, which could allow for light-controlled
   enantioenrichment of certain organic molecules. This could be a huge step toward  making
   new pharmaceuticals. '

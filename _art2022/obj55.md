@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Scientific Computing
-area_of_research_: Computational Science
+area_of_research: Computational Science
 description: Phylogenetic trees are fundamental for understanding the evolutionary
   history of a set of species. Understanding the local neighborhoods of a phylogenetic
   tree is essential, but since trees are high-dimensional objects, discussing these

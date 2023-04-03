@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Materials Chemistry
+area_of_research: Materials Chemistry
 description: Purified intermediate of a stilbene monomer for photomechanical polymers.
 current_location: 
 source: 

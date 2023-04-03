@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Microscope
 affiliation: Graduate Student
 department: Physics
-area_of_research_: Condensed Matter Experiment
+area_of_research: Condensed Matter Experiment
 description: The bubbles form when aluminum was deposited on a thin flake of topological
   insulators (TI) BiSbTeSe by thermal evaporation. TI is a kind of material which
   is conducting on the surface but insulating in interior. Aluminum is a common metal

@@ -6,7 +6,7 @@ _date: '2017'
 object_type: DSLR
 affiliation: Graduate Student
 department: Physics
-area_of_research_: Astrophysics
+area_of_research: Astrophysics
 description: "This is a photograph of the Swope Telescope located in Las Campanas
   Observatory, Chile. It was taken during one of the observation night back in June
   2017.\n \n Swope is a 1-meter telescope which was the first telescope located the

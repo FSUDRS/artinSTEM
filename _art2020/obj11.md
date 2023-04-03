@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Art Education
-area_of_research_: Arts-based Research/ Social Justice
+area_of_research: Arts-based Research/ Social Justice
 description: 'This image is part of a healing process after a Thyroidectomy. This
   procedure was done after being diagnosed with Thyroid cancer. The complete removal
   of this butterfly-shaped organ was the beginning of a metamorphosis in consciousness,

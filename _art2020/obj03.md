@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Biology
-area_of_research_: Coral Reef Ecology
+area_of_research: Coral Reef Ecology
 description: My work broadly focuses on the effects of human activities on coral reef
   ecosystems. More specifically I am interested in how nutrient enrichment from mismanaged
   waste water and fertilizers affects the sponges that inhabit the coral reef. These

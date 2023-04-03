@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Chemistry
-area_of_research_: Photon Upconversion
+area_of_research: Photon Upconversion
 description: This is the starting material needed to make substituted perylene diimide
   -- a molecule that has potential applications in solar cells.
 current_location: 

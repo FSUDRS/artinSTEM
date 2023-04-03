@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Microscope
 affiliation: Graduate Student
 department: Biological Science
-area_of_research_: Cell and Molecular Biology; Genome Wide Chromatin Dynamics
+area_of_research: Cell and Molecular Biology; Genome Wide Chromatin Dynamics
 description: We wanted to investigate the role of a structural network formed during
   gene activation. In green are cells that allow the network to form, and in red are
   cells that are prevented from forming a network.

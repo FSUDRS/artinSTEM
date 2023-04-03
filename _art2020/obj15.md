@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Cell Phone Camera
 affiliation: Graduate Student
 department: Chemistry
-area_of_research_: Inorganic Chemistry
+area_of_research: Inorganic Chemistry
 description: Several compounds I attempted to synthesize that did not turn out as
   expected were used in this art piece to create a flower. The green and purple compounds
   are Chromium containing compounds (dehydrated and hydrated). The compound in the

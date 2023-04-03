@@ -6,7 +6,7 @@ _date: '2018'
 object_type: Cell Phone Camera
 affiliation: Undergraduate Student
 department: EOAS
-area_of_research_: Sponge Ecology
+area_of_research: Sponge Ecology
 description: I investigated the presence and characteristics of sabellid worms on
   mangrove roots hosting sponges in Bocas del Toro, Panama. This research may illuminate
   a relationship between the two invertebrates.

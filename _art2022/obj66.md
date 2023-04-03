@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: 'Biological Science '
-area_of_research_: 'Cell and Molecular Biology '
+area_of_research: 'Cell and Molecular Biology '
 description: 'A bacterial plate infected with unknown contaminates held up to a window
   to show the winter sky. The plate was made by a colleague in the lab and left in
   the refrigerator where it became infected. The infection makes an intricate pattern

@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Simulation
 affiliation: Undergraduate Student
 department: 'Chemistry and Biochemistry '
-area_of_research_: Chemistry
+area_of_research: Chemistry
 description: Crystals of a luminescent dye.
 current_location: 
 source: 

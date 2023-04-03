@@ -6,7 +6,7 @@ _date: '2019'
 object_type: Microscope
 affiliation: Graduate Student
 department: 'Institute of Molecular Biophysics '
-area_of_research_: Cryogenic Electron Microscopy
+area_of_research: Cryogenic Electron Microscopy
 description: 'The idea is to have a protein in different angles decorated on a lipid
   tube and collect data on to determine the protein structure into atomic resolutions. '
 current_location: 

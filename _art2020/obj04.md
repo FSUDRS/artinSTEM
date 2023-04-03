@@ -6,7 +6,7 @@ _date: '2018'
 object_type: DSLR
 affiliation: Graduate Student
 department: Anthropology
-area_of_research_: Zooarchaeology, paleoethnobotany, environment and ecology, and
+area_of_research: Zooarchaeology, paleoethnobotany, environment and ecology, and
   households in archaeology
 description: Bronfenbrenner’s ecological systems theory and symmetrical archaeology
   are underlying principles and theoretical framework that looks at the arrangements

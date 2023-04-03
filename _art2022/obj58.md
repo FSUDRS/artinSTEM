@@ -6,7 +6,7 @@ _date: '2016'
 object_type: Microscope
 affiliation: Graduate Student
 department: Chemistry and Biochemistry
-area_of_research_: Photochemistry
+area_of_research: Photochemistry
 description: 'Palladium stuck to the walls of the flask leaving behind a metallic
   mirrored surface. '
 current_location: 

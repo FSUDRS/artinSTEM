@@ -6,7 +6,7 @@ _date: '2019'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry & Biochemistry
-area_of_research_: Materials Chemistry
+area_of_research: Materials Chemistry
 description: Close up image of a pure compound that is used to create a photomechanical
   polymer that when exposed to ultra-violet light will cause the polymer films to
   bend with directional control based on the polarization of the incident light. These

@@ -6,7 +6,7 @@ _date: '2020'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry & Biochemistry
-area_of_research_: Photochemistry
+area_of_research: Photochemistry
 description: Pictured is an iron complex (iron(II) tris(2,2&#x0027;-bipyridine)) dissolving
   in acetonitrile. This iron complex is blood red when dissolved in solution and has
   redox properties that are well-suited for high voltage photochemical applications

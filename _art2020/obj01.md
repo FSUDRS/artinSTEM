@@ -6,7 +6,7 @@ _date: '2020'
 object_type: Simulation
 affiliation: Graduate Student
 department: Scientific Computing
-area_of_research_: Type Ia Supernovae Explosions (Astrophysics)
+area_of_research: Type Ia Supernovae Explosions (Astrophysics)
 description: Turbulent eddies, or swirls, in a box of white dwarf star plasma that
   is partially "burning" via carbon fusion. This research is part of an effort in
   understanding the explosion mechanism of Type Ia supernovae, the cataclysmic deaths

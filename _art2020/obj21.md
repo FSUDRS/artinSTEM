@@ -6,7 +6,7 @@ _date: '2020'
 object_type: DSLR
 affiliation: Graduate Student
 department: Chemistry
-area_of_research_: Polymer and Materials Chemistry
+area_of_research: Polymer and Materials Chemistry
 description: The polymer was synthesized, dissolved in water and deposited on a silicon
   wafer. The result was an interesting pattern on the surface. This strong positively
   charged polymer can be used to form thin films. These multilayers have a wide range

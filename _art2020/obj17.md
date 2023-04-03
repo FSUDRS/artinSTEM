@@ -6,7 +6,7 @@ _date: '2016'
 object_type: Microscope
 affiliation: Postdoctoral Researcher
 department: Mathematics
-area_of_research_: Biomathematics
+area_of_research: Biomathematics
 description: "This image captures MCF7 (breast) carcinoma cells and was taken while
   researching the epithelial mesenchymal transition. The epithelial mesenchymal transition
   (EMT) is a process by which epithelial cells change the way they behave so as to
