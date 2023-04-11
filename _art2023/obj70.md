@@ -7,7 +7,7 @@ object_type: Microscope
 affiliation: Graduate Student
 department: Molecular Biophysics
 area_of_research: Structural Biology
-description: NS2B3 is a pair molecular scissors used by dengue virus to cleave human
+description: NS2B3 is a pair of molecular scissors used by dengue virus to cleave human
   protein cGAS so that it can survive and establish infection in the host cell. Here,
   we have determined the molecular structure of the active site mutant of NS2B3 (on
   the right). On the left-hand side, we have the picture of NS2B3 mutant protein crystals

@@ -1,6 +1,6 @@
 ---
 pid: obj82
-label: Colorful Kernals
+label: Colorful Kernels
 artist: Kat Koirtyohann
 _date: '2023'
 object_type: Cell Phone Camera

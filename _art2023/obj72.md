@@ -8,7 +8,7 @@ affiliation: Postdoctoral Researcher
 department: Biological Science
 area_of_research: Virology
 description: |-
-  The picture features HIV localization inside the TZMbl cell nucleus. Green dots represent the virus, and the nuclear speckle proteins SON and CPSF6 are blue and red in color . We are passionately studying our bit to understand the interaction of HIV-1  with different cellular proteins. As you see this image, I hope you take time to reflect on strategies for creating collective impact towards destigmatizing HIV/AIDS and working towards finding a cure. Let’s stop HIV together.
+  The picture features HIV localization inside the TZMbl cell nucleus. Green dots represent the virus, and the nuclear speckle proteins SON and CPSF6 are blue and red in color. We are passionately studying our bit to understand the interaction of HIV-1  with different cellular proteins. As you see this image, I hope you take time to reflect on strategies for creating collective impact towards destigmatizing HIV/AIDS and working towards finding a cure. Let’s stop HIV together.
   Left: HIV localization inside the TZMbl cell nucleus. Right: 3D image of the same cell.
 current_location:
 research_group: <a href="https://www.bio.fsu.edu/faculty.php?faculty-id=acfrancis">Dr.
